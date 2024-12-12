@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Web deployed on vercel: [URL](https://your-live-site-url.com)
+- Web deployed on vercel: [URL](https://social-links-profile-two-nu.vercel.app/)
 
 ### Built with
 
